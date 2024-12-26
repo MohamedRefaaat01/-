@@ -1,0 +1,43 @@
+<section id="home" class="hero">
+    <h2>مرحبًا بك في دار المسنين - عكاز</h2>
+    <p>نحن هنا لنقدم الرعاية والدعم لأحبائنا كبار السن بلمسة إنسانية.</p>
+    <a href="#services" class="cta-button">اكتشف المزيد</a>
+</section>
+
+<section id="services" class="services">
+    <h2>خدماتنا</h2>
+    <div class="service-cards">
+        <div class="service-card">
+            <h3>رعاية صحية</h3>
+            <p>خدمات طبية متكاملة بإشراف فريق متخصص.</p>
+        </div>
+        <div class="service-card">
+            <h3>أنشطة ترفيهية</h3>
+            <p>أنشطة يومية ترفيهية تحفّز النشاط الذهني والبدني.</p>
+        </div>
+        <div class="service-card">
+            <h3>وجبات صحية</h3>
+            <p>وجبات متوازنة تناسب احتياجات كبار السن.</p>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about">
+    <h2>عن الدار</h2>
+    <p>دار عكاز تهدف إلى توفير بيئة مريحة وآمنة للنزلاء مع أفضل خدمات الرعاية.</p>
+    <img src="assets/about.jpg" alt="دار المسنين" class="about-img">
+</section>
+
+<section id="donate" class="donate">
+    <h2>ساهم معنا</h2>
+    <p>ادعمنا لنواصل تقديم خدماتنا الإنسانية ونرسم الابتسامة على وجوه أحبائنا.</p>
+    <button onclick="alert('شكراً لدعمك!')">تبرع الآن</button>
+</section>
+
+<footer id="contact">
+    <h2>اتصل بنا</h2>
+    <p>العنوان: القاهرة، مصر</p>
+    <p>الهاتف: 0123456789</p>
+    <p>البريد الإلكتروني: info@okkaz.com</p>
+</footer>
+<script src="script.js"></script>
